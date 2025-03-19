@@ -1,8 +1,8 @@
 function creerPersonne(nom, age, ville) {
 	let personne = {
-		personnenom: nom,
-		personneager: age,
-		personneville: ville,
+		nom: nom,
+		age: age,
+		ville: ville,
 	};
 	return personne;
 }
